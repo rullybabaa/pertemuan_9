@@ -13,14 +13,14 @@ Web 2.0, antara lain:</p>
  sebagainya.</p>
 
 <h3>2. Folksonomy</h3>
-<p>Merupakan sebuah metode untuk menciptakan dan mengatur tag yang menjelaskan dan mengategorikan 
+<p>Folksonomy Merupakan sebuah metode untuk menciptakan dan mengatur tag yang menjelaskan dan mengategorikan 
 content. Tag tersebut umumnya merupakan hyperlink yang akan mengarahkan Anda pada sekumpulan item 
 yang berhubungan dengan tag tersebut Bentuk tag tidak selalu harus berupa teks, tetapi dapat juga 
 berupa image. Sekumpulan tag yang saling terkait dengan persamaan bentuk sering juga disebut dengan
  tag cloud, umumnya tag cloud memiliki 30 hingga 150 tag.</P>
 
 <h3>3. Mashup</h3>
-<p>Merupakan aplikasi web yang melakukan kombinasi data yang berasal dari lebih dari satu sumber, 
+<p>Mashup Merupakan aplikasi web yang melakukan kombinasi data yang berasal dari lebih dari satu sumber, 
 disajikan dalam satu content. Contoh Web 2.0 yang menggunakan mashup adalah Google Maps, yang 
 menggabungkan data dari Google Maps sendiri bersama data real estate dari Craigslist (sebuah jaringan
  komunitas online). Metode pengambilan data dari sumber lain dapat menggunakan web feed (RSS atau Atom),
